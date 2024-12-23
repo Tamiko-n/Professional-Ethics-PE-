@@ -73,7 +73,7 @@ A special thanks to the **NED University Faculty** for their efforts in creating
 
 ## 📧 Contact
 For questions, suggestions, or feedback, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/Tamiko-n)
+- **GitHub**: [Tamia Naeem](https://github.com/Tamiko-n)
 
 ---
 
